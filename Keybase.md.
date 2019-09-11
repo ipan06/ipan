@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ipan06 on github.
+  * I am ipan (https://keybase.io/ipan) on keybase.
+  * I have a public key ASBjl44TZPeJ5DiXd8excUIl9tFdvQzBQysChuL4wQj1sgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012063978e1364f789e4389777c7b1714225f6d15dbd0cc1432b0286e2f8c108f5b20a",
+      "host": "keybase.io",
+      "kid": "012063978e1364f789e4389777c7b1714225f6d15dbd0cc1432b0286e2f8c108f5b20a",
+      "uid": "5f4e19a4927f8389f295cb20f1945119",
+      "username": "ipan"
+    },
+    "merkle_root": {
+      "ctime": 1568176913,
+      "hash": "a915c954a50aa2b4789288f0dac359b2b6478bdadc859c81678380e27e200fe4939f8aa07b6fee4c8e535d63d036e6675e0e5c84e98d931d61ee01b77d200266",
+      "hash_meta": "1c651195c13a5a05ce0f1061c3d0132d5a033ae867c264dc0a474ae86eaa4be4",
+      "seqno": 6591887
+    },
+    "service": {
+      "entropy": "caA9fLhAwW5ahnn5B8Vk4Oqj",
+      "name": "github",
+      "username": "ipan06"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568176914,
+  "expire_in": 504576000,
+  "prev": "d558d807811f282b77c1ad9e977614b3f5e4d1ea67fdf2dc9de6a9ba2171952c",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASBjl44TZPeJ5DiXd8excUIl9tFdvQzBQysChuL4wQj1sgo](https://keybase.io/ipan), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgY5eOE2T3ieQ4l3fHsXFCJfbRXb0MwUMrAobi+MEI9bIKp3BheWxvYWTESpcCDsQg1VjYB4EfKCt3wa2el3YUs/Xk0epn/fLcneapuiFxlSzEIGOwtQ9vMrhJDuqeM2fX6oYzFXfuYQwujTNow/z2yr9BAgHCo3NpZ8RAdR2C5bM7gEEq2ynlOYxuO/NzI9p4vdtPN+M7IVQbaBRl9RpPxCrFfLdCo2bcOOVOHvSlbV73mzQemO4cIfHwC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHGw/1lioNmk6XUjqjsmOLN+HOGygG5IBLQF6Ud4lVQHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ipan
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ipan
+```
